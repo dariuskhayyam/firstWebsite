@@ -1,0 +1,51 @@
+#header {
+    background-color: rgb(8, 94, 145);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+#menu {
+    text-decoration: none;
+    background-color: grey;
+    border: hidden;
+    margin-right: 1200px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+#menu ul {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: red;
+}
+
+#jared {
+    position: relative;
+    left: 400px;
+    width: 500px;
+    padding: 10px;
+    top: -200px;
+}
+
+.suck {
+    background-color: red;
+    color: black;
+    font-size: 100px;
+}
